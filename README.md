@@ -1,6 +1,6 @@
-# FinTrack – Personal Finance Tracker
+# Personal Expense Tracker
 
-FinTrack is a personal finance tracking web application built using **React, TypeScript, and Tailwind CSS**. It helps users manage income and expenses, track monthly budgets, analyze spending patterns, and generate financial reports through an intuitive dashboard. The application also includes an **AI-powered expense assistant** that provides smart suggestions and insights based on user spending data.
+It is a personal expense tracking web application built using **React, TypeScript, and Tailwind CSS**. It helps users manage income and expenses, track monthly budgets, analyze spending patterns, and generate financial reports through an intuitive dashboard. The application also includes an **AI-powered expense assistant** that provides smart suggestions and insights based on user spending data.
 
 ## Features
 
