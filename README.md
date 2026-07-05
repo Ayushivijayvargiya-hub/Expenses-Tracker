@@ -305,4 +305,3 @@ For issues or questions, please check the code comments or create an issue in th
 
 ---
 
-**Built with ❤️ using React, TypeScript, and Tailwind CSS**
